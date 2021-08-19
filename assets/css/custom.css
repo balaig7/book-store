@@ -1,0 +1,27 @@
+body {
+   font-family: "Open Sans", sans-serif;
+}
+
+header {
+   border-bottom: 1px solid #e6f2fb;
+}
+
+li.nav-item {
+   padding: 7px 0 7px 20px;
+}
+
+.banner {
+   padding: 88px 0;
+}
+
+a:hover {
+   text-decoration: none!important;
+}
+
+.contents {
+   padding: 88px 0 40px 0;
+}
+
+.banner-image {
+   height: 255px;
+}
